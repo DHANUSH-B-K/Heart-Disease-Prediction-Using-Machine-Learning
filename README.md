@@ -1,1 +1,2 @@
 # Heart-Disease-Prediction-Using-Machine-Learning
+Developed a predictive model to assess cardiovascular disease risk using patient health indicators. Implemented advanced feature engineering and trained models including Random Forest and XGBoost, achieving high accuracy and ROC-AUC scores. Designed an interactive Python-based system for real-time risk prediction, with data preprocessing, model training, and deployment pipelines using pandas, scikit-learn, and XGBoost.
